@@ -171,4 +171,4 @@ pytest tests/test_form_validation.py --alluredir=allure-results
 
 ---
 
-*Обеспечение качества через автоматизированное тестирование и непрерывную валидацию*
+
